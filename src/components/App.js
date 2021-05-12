@@ -4,7 +4,7 @@ import "./../styles/App.css";
 // Do not alter the states const and values inside it.
 const states = [
   {
-    name: "Madhya Pradesh A",
+    name: "Madhya Pradesh",
     cities: [
       {
         name: "Indore",
